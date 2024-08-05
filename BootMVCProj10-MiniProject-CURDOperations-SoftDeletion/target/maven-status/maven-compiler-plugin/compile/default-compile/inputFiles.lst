@@ -1,7 +1,7 @@
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\controller\EmployeeOperationsController.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\ServletInitializer.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\repo\IEmployeeRepositary.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\service\IEmployeeMgmtService.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\model\Employee.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\BootMvcProj07MiniProjectCurdOperationsApplication.java
-E:\Eclips-workspace-Spring\JRTP\JRTP701-IDE\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\service\EmployeeMgmtServiceImpl.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\controller\EmployeeOperationsController.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\service\EmployeeMgmtServiceImpl.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\BootMvcProj07MiniProjectCurdOperationsApplication.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\model\Employee.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\ServletInitializer.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\service\IEmployeeMgmtService.java
+C:\Users\HP\git\JRTP701Repo-EclipseApps-Local\BootMVCProj10-MiniProject-CURDOperations-SoftDeletion\src\main\java\com\nt\repo\IEmployeeRepositary.java
